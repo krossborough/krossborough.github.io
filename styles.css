@@ -1,0 +1,36 @@
+
+h1 {font-size:225%;
+	font-style:italic
+	color:lightcoral}
+
+h2 {font-size:150%;
+	font-style:italic;
+	color:lightcoral}
+
+
+
+body {background:azure;
+		color:darkcyan;
+		font-size:14pt;
+		font-family: 'Rufina', serif
+		}
+
+
+
+li {display:inline-block;
+	border:2px solid black;
+	padding:15px;
+	margin:20px
+	background:white
+	}
+	
+a {color:darkblue;
+	text-decoration:none;}
+a:hover {color:lightblue}
+	
+	
+	
+	
+img {width500px}
+.picture {float: left}
+.article {clear: both} 
